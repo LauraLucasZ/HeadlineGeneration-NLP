@@ -191,3 +191,14 @@ the sequence-to-sequence models.
 - Run the preprocessing notebook first so that model-specific CSV files exist.
 - For reproducible comparison, use the same train/validation/test splits across
   all model experiments.
+
+  ## 👨‍💻 Team Members
+
+- [Laura Lucas](https://github.com/LauraLucasZ)
+
+- [Mariam Elbishbeashy](https://github.com/Mariam-Elbishbeashy)
+
+- [Aya Hisham](https://github.com/ayahisha)
+
+- [Mohamed Elrawy](https://github.com/MohamedIhabIbrahim22)
+
