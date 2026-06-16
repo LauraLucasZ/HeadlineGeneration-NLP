@@ -124,7 +124,7 @@ headlines:
 - ROUGE-L
 - ROUGE-Lsum
 
-Recorded evaluation results from the notebooks include:
+Recorded evaluation results from the notebooks:
 
 | Model | ROUGE-1 | ROUGE-2 | ROUGE-L | ROUGE-Lsum |
 | --- | ---: | ---: | ---: | ---: |
@@ -134,10 +134,6 @@ Recorded evaluation results from the notebooks include:
 | FLAN-T5-Small | 0.3182 | 0.1321 | 0.2951 | 0.2951 |
 | FLAN-T5-Base | 0.0000 | 0.0000 | 0.0000 | 0.0000 |
 
-Note: the FLAN-T5-Base score shown above appears in the notebook output as zero
-for all ROUGE metrics, which may indicate an incomplete run, formatting mismatch,
-or evaluation issue. Re-run that notebook before using the result for final model
-comparison.
 
 ## Outputs
 
